@@ -23,3 +23,8 @@ words found by the Computer and how many words not found by the computer (how ma
 the user found). Then the elapsed time that the user took to find all of their words.
 
 The program runs and works flawlessly with no output errors. 
+To run application in terminal.
+Go to the directory where the file is stored and run the bash file.
+The command to run the bash: "./build.bash"
+Once the command is ran, your computer will compile the JAVA code and create a GUI
+screen of the application.
